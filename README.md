@@ -1,7 +1,7 @@
 # Enviar E-mail com React JS utilizando a tecnologia EmailJS
 
 <h1 align="center">
-    <img alt="Mande seu E-mail" title="Mande seu E-mail" src=".github/bg_md.svg" />
+    <img alt="Mande seu E-mail" title="Mande seu E-mail" src=".github/bg_md.png" />
 </h1>
 
 ## 🚀 Tecnologias
